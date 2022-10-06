@@ -1,0 +1,10 @@
+body {
+    background-color: gainsboro;
+}
+
+#profilePicture{
+    height: 200px;
+    border-width: 2px;
+    border-color: black;
+    border-style: groove
+}
